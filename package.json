@@ -1,0 +1,20 @@
+{
+  "name": "lodash-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatyanac94/lodash-practice.git"
+  },
+  "author": "Tatyana Cuttino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tatyanac94/lodash-practice/issues"
+  },
+  "homepage": "https://github.com/Tatyanac94/lodash-practice#readme"
+}
